@@ -1,6 +1,2 @@
 transformers
-pandas
 streamlit
-streamlit-chat
-langchain
-torch
